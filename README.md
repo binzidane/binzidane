@@ -1,42 +1,23 @@
-### Hello World ! 👋
-
-<!--
-**choubari/choubari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 
-### I'm [Mohammed!] (#)👨‍💻 </br>
+### IHello World ! 👋👨‍💻 </br>
 <br />
 <br />
 
 
-Hi, I'm Mohammed Zidane, a passionate self-taught and self-learning,
+Hi, I'm Mohammed Zidane, a passionate self-taught frontEnd web developer,
 Loving helping people and that make my happy
- I'm curious about how a Websites that actually can be made! 🤔
  <br/>
 
-
+<!-- 
  - 🔭 **I’m currently gaining industrial experience**.   
 - 🌱 **I’m currently learning Full Stack Development**.
 - 👯 **I’m looking to collaborate on Web Development**.      
 - 🤔 **I’m looking for help with Internships, Freelancing**.
 -  🔭 **I’m currently learning Tailwind and vueJS**
 -  ⚡ **Excited to create a Website**
--  **😄 I'm natively speak arabic and still learn english.**
+-  **😄 I'm natively speak arabic and still learn english.** -->
 
-
-> 🏘️ Available for Remote Freelance projects.
+<!-- 
+> 🏘️ Available for Remote Freelance projects. -->
 
 ---
 
@@ -70,4 +51,52 @@ Gmail
 
 ## Thing I Can Code With
 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-430098?style=flat-square&logo=vue.js&logoColor=green" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+### **Languages and Technologies:**
+<p float="left">
+
+ <a href="https://www.python.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/HTML">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/CCS3">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+  </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+  <a href="https://v3.vuejs.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/tyq3.png" width="40">
+  </a>
+ <a href="https://nodejs.org/en/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
+ <a href="https://dart.dev/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+  </a>
+  <a href="https://flutter.dev/">
+<img alt="choubari" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="40">
+  </a>
+ <a href="https://kotlinlang.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
+  </a>
+ <a href="https://git-scm.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+ <a href="https://code.visualstudio.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  </a>
+<a href="https://www.adobe.com/products/photoshop.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
+  </a>
+ <a href="https://www.adobe.com/products/illustrator.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
+  </a>
+  <a href="https://www.adobe.com/products/xd.html">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40">
+  </a>
+</p>
