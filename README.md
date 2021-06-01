@@ -1,11 +1,11 @@
-### IHello World ! 👋👨‍💻 
+### Hello World ! 👋👨‍
 <br />
 <br />
 
 
 Hi, I'm Mohammed Zidane, a passionate self-taught frontEnd web developer,
-Loving helping people and that make my happy
- <br/>
+ <br/>Loving helping people and that make my happy
+
 
 <!-- 
  - 🔭 **I’m currently gaining industrial experience**.   
@@ -80,9 +80,6 @@ Gmail
   </a>
   <a href="https://flutter.dev/">
 <img alt="choubari" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="40">
-  </a>
- <a href="https://kotlinlang.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
   </a>
  <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
