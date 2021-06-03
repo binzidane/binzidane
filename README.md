@@ -4,7 +4,7 @@
 
 
 Hi, I'm Mohammed Zidane, a passionate self-taught frontEnd web developer,
- <br/>Loving helping people and that make my happy
+ <br/>Loving helping people, and that makes me happy.
 
 
 <!-- 
