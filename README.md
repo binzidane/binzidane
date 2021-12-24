@@ -4,21 +4,7 @@
 
 
 Hi, I'm Mohammed Zidane, a passionate self-taught frontEnd web developer,
- <br/>Loving helping people, and that makes me happy.
-
-
-<!-- 
- - 🔭 **I’m currently gaining industrial experience**.   
-- 🌱 **I’m currently learning Full Stack Development**.
-- 👯 **I’m looking to collaborate on Web Development**.      
-- 🤔 **I’m looking for help with Internships, Freelancing**.
--  🔭 **I’m currently learning Tailwind and vueJS**
--  ⚡ **Excited to create a Website**
--  **😄 I'm natively speak arabic and still learn english.** -->
-
-<!-- 
-> 🏘️ Available for Remote Freelance projects. -->
-
+ 
 ---
 
 <!-- ## Find me in -->
